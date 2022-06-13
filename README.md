@@ -26,5 +26,5 @@
  
  **Extras:**
  
- 1. Desafios
- 2. Exercícios
+ - [x] Desafios
+ - [x] Exercícios

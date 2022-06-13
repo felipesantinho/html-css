@@ -24,7 +24,7 @@
  19. Imagens de Fundo
  20. Mini-projeto Cordel
  
- **Extras**
+ **Extras:**
  
  1. Desafios
  2. Exercícios

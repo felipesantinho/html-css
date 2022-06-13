@@ -1,5 +1,5 @@
 # html-css
- Curso de **HTML5** e **CSS3** do **_@Curso em Video_**
+ Curso de **HTML5** e **CSS3** do **_@CursoemVideo_**
 
 ---
 
